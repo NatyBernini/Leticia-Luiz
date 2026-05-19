@@ -75,6 +75,26 @@ const presentes = [
         imagem: "img/64.png",
         link: "https://shopee.com.br/Varal-De-Ch%C3%A3o-3-Andares-Para-Roupas-e-Calcinhas-4-Rodas-Dobr%C3%A1vel-Refor%C3%A7ado-e-Port%C3%A1til-i.318583394.15782946794?extraParams=%7B%22display_model_id%22%3A159530862167%2C%22model_selection_logic%22%3A3%7D&sp_atk=1adf5189-da1c-48e1-aac4-cd625709d6a0&xptdk=1adf5189-da1c-48e1-aac4-cd625709d6a0"
     },
+                                                         {
+        nome: "Formas de Gelo kit 4un",
+        imagem: "img/65.png",
+        link: "https://shopee.com.br/Kit-4-Formas-de-Gelo-Silicone-Com-Tampa-R%C3%ADgida-Flex%C3%ADvel-Fundo-Retangular-14-Cubos-Multiuso-Lav%C3%A1vel-i.1384711887.22693870039?extraParams=%7B%22display_model_id%22%3A129649992692%2C%22model_selection_logic%22%3A3%7D&sp_atk=4d15191d-18d4-4e03-96f6-e2c91fd2c5a2&xptdk=4d15191d-18d4-4e03-96f6-e2c91fd2c5a2"
+    },
+                                                            {
+        nome: "Assadeira",
+        imagem: "img/66.png",
+        link: "https://shopee.com.br/Assadeiras-Lasanheira-Travessa-de-vidro-Retangular-i.374232483.20748637042?extraParams=%7B%22display_model_id%22%3A127347609528%2C%22model_selection_logic%22%3A3%7D&rModelId=127347609528&sp_atk=08b5c616-6fbc-4e99-9433-ee8f6bb58939&vItemId=58203909310&vModelId=219617294654&vShopId=1665239494&xptdk=08b5c616-6fbc-4e99-9433-ee8f6bb58939"
+    },
+                                                                {
+        nome: "Forma kit 2un",
+        imagem: "img/67.png",
+        link: "https://shopee.com.br/KIT-2-(DUAS)-Formas-Assadeira-P%C3%A3o-GRANDE-N%C2%B03-Caseiro-Bolo-Ingl%C3%AAs-Retangular-28x11x5cm-i.382616347.58203065858?extraParams=%7B%22display_model_id%22%3A228797927288%2C%22model_selection_logic%22%3A3%7D&rModelId=228797927288&sp_atk=10a9f038-9c06-4f5d-809c-844b2b60b805&vItemId=22194896561&vModelId=228801512289&vShopId=1665239494&xptdk=10a9f038-9c06-4f5d-809c-844b2b60b805"
+    },
+                                                                    {
+        nome: "Kit utensilio de silicone",
+        imagem: "img/68.png",
+        link: "https://shopee.com.br/Kit-4p%C3%A7s-22cm-de-silicone-utens%C3%ADlios-cozinha-esp%C3%A1tula-colher-concha-escumadeira-i.1046470373.58209848077?extraParams=%7B%22display_model_id%22%3A189621339673%2C%22model_selection_logic%22%3A3%7D&sp_atk=df17a58f-09d9-4a09-9eb0-e77a3026257e&xptdk=df17a58f-09d9-4a09-9eb0-e77a3026257e"
+    },
 ];
 
 const container = document.getElementById('lista-presentes');
