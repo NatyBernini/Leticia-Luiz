@@ -95,6 +95,31 @@ const presentes = [
         imagem: "img/68.png",
         link: "https://shopee.com.br/Kit-4p%C3%A7s-22cm-de-silicone-utens%C3%ADlios-cozinha-esp%C3%A1tula-colher-concha-escumadeira-i.1046470373.58209848077?extraParams=%7B%22display_model_id%22%3A189621339673%2C%22model_selection_logic%22%3A3%7D&sp_atk=df17a58f-09d9-4a09-9eb0-e77a3026257e&xptdk=df17a58f-09d9-4a09-9eb0-e77a3026257e"
     },
+                                                                        {
+        nome: "Kit Cabide 50 un",
+        imagem: "img/69.png",
+        link: "https://shopee.com.br/Cabide-Acr%C3%ADlico-Kit-50-Cabides-Para-Roupas-Transparente-Adulto-Refor%C3%A7ado-Organizador-i.1101178064.23397767557?extraParams=%7B%22display_model_id%22%3A189598928102%2C%22model_selection_logic%22%3A3%7D&rModelId=189598928102&sp_atk=174b89de-fa6f-4190-bb9c-a2bdd0771478&vItemId=58252410344&vModelId=199183661926&vShopId=1665239494&xptdk=174b89de-fa6f-4190-bb9c-a2bdd0771478"
+    },
+                                                                            {
+        nome: "Pote com Medido",
+        imagem: "img/70.png",
+        link: "https://shopee.com.br/Pote-Herm%C3%A9tico-2.5L-Com-Copo-Medidor-Bico-Dosador-Cozinha-Mantimentos-Lavanderia-Multiuso-i.1619145136.23198934354?extraParams=%7B%22display_model_id%22%3A209179885715%2C%22model_selection_logic%22%3A3%7D&rModelId=209179885715&sp_atk=34f32608-a901-407b-b838-8be908c5930b&vItemId=58203319424&vModelId=129654593351&vShopId=1665239494&xptdk=34f32608-a901-407b-b838-8be908c5930b"
+    },
+                                                                                {
+        nome: "Tábua de Madeira",
+        imagem: "img/71.png",
+        link: "https://shopee.com.br/T%C3%81BUA-TECA-PARA-CORTE-DE-CARNES-PETISQUEIRA-MADEIRA-NOBRE-TABUA-DE-CORTE-TECA-INVERTIDA-M%C3%89DIA-i.539823555.20699681619?extraParams=%7B%22display_model_id%22%3A169716616240%2C%22model_selection_logic%22%3A3%7D&sp_atk=644c435d-a046-4bec-97f1-62878e312dfa&xptdk=644c435d-a046-4bec-97f1-62878e312dfa"
+    },
+                                                                                    {
+        nome: "Tábua Inox",
+        imagem: "img/72.png",
+        link: "https://shopee.com.br/T%C3%A1bua-De-Corte-304-A%C3%A7o-Inoxid%C3%A1vel-Antibacteriana-%C3%80-Prova-De-Mofo-46-cm-T%C3%A1bua-De-cozinha-i.1738554693.48458146733?extraParams=%7B%22display_model_id%22%3A390724963583%2C%22model_selection_logic%22%3A3%7D&sp_atk=a4b47b10-6e8e-4768-8cc1-9fe638c5a13a&xptdk=a4b47b10-6e8e-4768-8cc1-9fe638c5a13a"
+    },
+                                                                                        {
+        nome: "Tábua de Passar Roupa",
+        imagem: "img/73.png",
+        link: "https://shopee.com.br/T%C3%A1bua-Mesa-de-Passar-Roupa-T%C3%A9rmica-Multiuso-Port%C3%A1til-i.661698210.20899319192?extraParams=%7B%22display_model_id%22%3A169397569589%2C%22model_selection_logic%22%3A3%7D&sp_atk=ef0c05e9-ed0e-478e-a78b-eefc03bf9d2b&xptdk=ef0c05e9-ed0e-478e-a78b-eefc03bf9d2b"
+    },
 ];
 
 const container = document.getElementById('lista-presentes');
