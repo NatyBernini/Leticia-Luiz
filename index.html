@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chá de Casa Nova - Ana Luiza & Lucas</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Playfair+Display:ital@0;1&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <header>
+        <h1>Letícia & Luiz Felipe</h1>
+        
+        <!-- MENSAGEM ADAPTADA PARA O CHÁ DE CASA NOVA -->
+        <section class="mensagem-boas-vindas">
+            <div class="mensagem-content">
+                <p>
+                    Estamos montando o nosso cantinho e preparamos esta lista com itens essenciais para o nosso dia a dia. 
+                    Pensamos em cada detalhe com muito amor para nos ajudar a construir nosso novo lar e iniciar essa nova fase juntos!
+                </p>
+                <p class="mensagem-enfase">
+                    Lembrando que a presença de vocês para comemorar com a gente é o nosso maior presente.
+                </p>
+                <p>
+                    Fiquem à vontade para escolher algo da lista para nos ajudar a rechear nossa casa nova, caso desejem — o mais importante é compartilhar essa alegria com quem amamos.
+                </p>
+                <p class="assinatura">Com amor, <br> <span>Letícia e Luiz Felipe</span></p>
+            </div>
+        </section>
+
+        <!-- SEÇÃO DO EVENTO REESTRUTURADA PARA O CHÁ -->
+        <div class="igreja-container">
+            <div class="igreja-wrapper">
+                <img src="img/image.png" alt="Nosso Chá de Casa Nova" class="igreja-ilustracao">
+
+                <div class="igreja-info">
+                    <h3>O Nosso Chá</h3>
+                    <p><strong>Data:</strong> Sábado, 06 de Junho de 2026</p>
+                    <p><strong>Horário:</strong> 18:00 horas</p>
+                    <p><strong>Local:</strong> Casa da Letícia</p>
+                    <p class="endereco">Rua Professor Osvaldo Navarro, n 22<br>
+                        Bairro do Campo, Barbacena - MG</p>
+                </div>
+            </div>
+        </div>
+
+        <p class="subtitle">Coisas para a Casa Nova</p>
+        <div class="divider"></div>
+    </header>
+
+    <!-- Controle de Áudio Flutuante -->
+    <div class="audio-control-container">
+        <button onclick="toggleMute()" id="btn-audio" class="btn-audio-float">
+            <span id="audio-icon">🔊</span>
+        </button>
+        <input type="range" id="volume-control" min="0" max="1" step="0.1" value="0.5" class="volume-slider">
+    </div>
+
+    <main class="container">
+        <section id="lista-presentes" class="grid-presentes">
+            <!-- Os itens serão inseridos aqui pelo JavaScript -->
+        </section>
+    </main>
+
+    <footer>
+        <p>Com carinho, Ana e Lucas</p>
+    </footer>
+
+    <!-- Modal Informativo Adaptado -->
+    <div id="modal-aviso" class="modal-overlay">
+        <div class="modal-content">
+            <h3>Aviso Importante 🎁</h3>
+            <p>Ao escolher um item, pedimos que você <strong>confirme com a gente no WhatsApp</strong> para colocarmos o seu nome e atualizar o status da lista!</p>
+            <button onclick="fecharModal()" class="btn-entendido">Entendi!</button>
+        </div>
+    </div>
+
+    <audio id="musica-tema" loop>
+        <source src="audio/ordinary.mpeg" type="audio/mpeg">
+    </audio>
+    <script src="script.js"></script>
+</body>
+
+</html>
