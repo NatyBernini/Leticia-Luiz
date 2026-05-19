@@ -120,6 +120,104 @@ const presentes = [
         imagem: "img/73.png",
         link: "https://shopee.com.br/T%C3%A1bua-Mesa-de-Passar-Roupa-T%C3%A9rmica-Multiuso-Port%C3%A1til-i.661698210.20899319192?extraParams=%7B%22display_model_id%22%3A169397569589%2C%22model_selection_logic%22%3A3%7D&sp_atk=ef0c05e9-ed0e-478e-a78b-eefc03bf9d2b&xptdk=ef0c05e9-ed0e-478e-a78b-eefc03bf9d2b"
     },
+                                                                                            {
+        nome: "Abridor de Latas",
+        imagem: "img/74.png",
+        link: "https://shopee.com.br/Abridor-De-Latas-3-Em-1-Garrafas-A%C3%A7o-Inox-Profissional-Casa-i.1558233660.58256909383?extraParams=%7B%22display_model_id%22%3A219186995438%2C%22model_selection_logic%22%3A3%7D&sp_atk=b5939d15-9dbb-4ad7-bb31-1cbc12ccf9c6&xptdk=b5939d15-9dbb-4ad7-bb31-1cbc12ccf9c6"
+    },
+                                                                                                {
+        nome: "Forma de Pizza",
+        imagem: "img/75.png",
+        link: "https://shopee.com.br/KIT-2-Formas-Bandeja-Grande-Antiaderente-Redonda-Pizza-P%C3%A3o-Queijo-Forma-30cm-i.414937135.56059335083?extraParams=%7B%22display_model_id%22%3A355825407440%2C%22model_selection_logic%22%3A3%7D&rModelId=355825407440&sp_atk=aca8a5c7-7911-4a4f-82e4-bc269eab30b9&vItemId=58206138616&vModelId=209186513984&vShopId=1665239494&xptdk=aca8a5c7-7911-4a4f-82e4-bc269eab30b9"
+    },
+    {
+        nome: "Assadeira de Bolo",
+        imagem: "img/76.png",
+        link: "https://shopee.com.br/Jogo-de-3-Formas-de-e-Pudim-Bolo-N%C2%BA-18-20-e-22-Tubo-Cone-Aluminio-Bolo-Vulc%C3%A3o-Sui%C3%A7o-com-furo-i.1376556391.55707578738?extraParams=%7B%22display_model_id%22%3A420674845644%2C%22model_selection_logic%22%3A3%7D&sp_atk=64f57e1a-c111-4580-89ce-a8bbfeaa8acb&xptdk=64f57e1a-c111-4580-89ce-a8bbfeaa8acb"
+    },    
+    {
+        nome: "Avental",
+        imagem: "img/77.png",
+        link: "https://shopee.com.br/Avental-De-Renda-De-Algod%C3%A3o-Puro-Estilo-Ocidental-Para-Mulheres-Cozinha-Cozimento-Fino-Ver%C3%A3o-Novo-Influenciador-i.1006215031.24283991062?extraParams=%7B%22display_model_id%22%3A127994004074%2C%22model_selection_logic%22%3A3%7D&sp_atk=a3e28186-cf0b-4f1b-8704-9c1e1def1aaa&xptdk=a3e28186-cf0b-4f1b-8704-9c1e1def1aaa"
+    },    {
+        nome: "Fue",
+        imagem: "img/78.png",
+        link: "https://shopee.com.br/Batedor-Manual-Tramontina-Softta-Cinza-i.1651670254.23794543928?extraParams=%7B%22display_model_id%22%3A239430735947%2C%22model_selection_logic%22%3A3%7D&sp_atk=c377e8fb-4741-408f-90f3-bd9366ab0dd2&xptdk=c377e8fb-4741-408f-90f3-bd9366ab0dd2"
+    }, {
+        nome: "Pilão de Madeira",
+        imagem: "img/79.png",
+        link: "https://shopee.com.br/Pil%C3%A3o-de-Bambu-Socador-Para-Tempero-Alho-Ervas-Finas-Multiuso-i.850501874.22898585594?extraParams=%7B%22display_model_id%22%3A189175855441%2C%22model_selection_logic%22%3A3%7D&sp_atk=a6689878-b869-49d6-be09-5ddf664bd30c&xptdk=a6689878-b869-49d6-be09-5ddf664bd30c"
+    },
+    {
+        nome: "Kit Peneira Inox",
+        imagem: "img/80.png",
+        link: "https://shopee.com.br/Kit-Peneira-Coador-Manual-Em-A%C3%A7o-Inox-Para-Cozinha-i.1085236305.22292875800?extraParams=%7B%22display_model_id%22%3A228764289757%2C%22model_selection_logic%22%3A3%7D&rModelId=228764289757&sp_atk=60336c4b-b6af-4f2e-a5f2-e6425fbcaec9&vItemId=58206134593&vModelId=139655437488&vShopId=1665239494&xptdk=60336c4b-b6af-4f2e-a5f2-e6425fbcaec9"
+    },
+     {
+        nome: "Pegador de Massas",
+        imagem: "img/81.png",
+        link: "https://shopee.com.br/Pegador-De-Massa-Tramontina-Inox-i.1116105179.23094015028?extraParams=%7B%22display_model_id%22%3A189607424441%2C%22model_selection_logic%22%3A3%7D&sp_atk=86abd1f6-9f61-4328-8b14-926dd16eb579&xptdk=86abd1f6-9f61-4328-8b14-926dd16eb579"
+    },
+         {
+        nome: "Kit Utensílios",
+        imagem: "img/82.png",
+        link: "https://shopee.com.br/%E2%80%8E-Kit-Jogo-Utens%C3%ADlios-De-Cozinha-Tramontina-Ability-Preto-Antiaderente-Nylon-Pegadores-Conjunto-Multiuso-Cozinha-i.1203262771.23297783690?extraParams=%7B%22display_model_id%22%3A219179025134%2C%22model_selection_logic%22%3A3%7D&sp_atk=e5cc01d3-cad3-4cad-8f05-34e197911e8f&xptdk=e5cc01d3-cad3-4cad-8f05-34e197911e8f"
+    },
+             {
+        nome: "Puxa Saco",
+        imagem: "img/83.png",
+        link: "https://shopee.com.br/Puxa-Saco-Xadrez-Bege-Porta-Sacolinha-De-Lixo-De-Cozinha-Basico-.-i.379509502.23394220424?extraParams=%7B%22display_model_id%22%3A179408265679%2C%22model_selection_logic%22%3A3%7D&sp_atk=03cb609f-250a-4744-bd30-61b32f12a5dc&xptdk=03cb609f-250a-4744-bd30-61b32f12a5dc"
+    },
+                 {
+        nome: "Saleiro e Paliteiro",
+        imagem: "img/84.png",
+        link: "https://shopee.com.br/Saleiro-E-Paliteiro-Cer%C3%A2mica-O%C3%A1sis-90ml-Com-Suporte-3-Pe%C3%A7as-Luxo-Hauskraft-i.345663395.22398071160?extraParams=%7B%22display_model_id%22%3A228776264883%2C%22model_selection_logic%22%3A3%7D&sp_atk=d1e6cd2f-dfbe-44ee-826a-1c8b019fe1bb&xptdk=d1e6cd2f-dfbe-44ee-826a-1c8b019fe1bb"
+    },
+                     {
+        nome: "Tesoura",
+        imagem: "img/85.png",
+        link: "https://shopee.com.br/Tesoura-Multiuso-Tramontina-A%C3%A7o-Inox-Costura-Escrit%C3%B3rio-Uso-Geral-Original-i.309841349.10621589637?extraParams=%7B%22display_model_id%22%3A109715278080%2C%22model_selection_logic%22%3A3%7D&sp_atk=ec4aa819-cb0e-4932-b0d3-d6743075d491&xptdk=ec4aa819-cb0e-4932-b0d3-d6743075d491"
+    },
+                         {
+        nome: "Balde 10 l",
+        imagem: "img/86.png",
+        link: "https://shopee.com.br/Kit-2-1-Balde-Dobr%C3%A1vel-10-Litros-Retr%C3%A1til-Silicone-Powermaid-Resist%C3%AAnte-Com-Al%C3%A7a-e-Gancho-i.1447820189.55207119719?extraParams=%7B%22display_model_id%22%3A420635976796%2C%22model_selection_logic%22%3A3%7D&sp_atk=c86678c1-e4b9-4f31-a102-98eb067fd00d&xptdk=c86678c1-e4b9-4f31-a102-98eb067fd00d"
+    },
+                             {
+        nome: "Espanador",
+        imagem: "img/87.png",
+        link: "https://shopee.com.br/Espanador-280-Cent%C3%ADmetros-Ajust%C3%A1vel-Telesc%C3%B3pica-Dobra-Duster-Escova-De-Limpeza-De-Poeira-i.1384708159.23093586900?extraParams=%7B%22display_model_id%22%3A219183769636%2C%22model_selection_logic%22%3A3%7D&sp_atk=d11df6c9-2c6e-4fc3-af3d-13f33c794eb5&xptdk=d11df6c9-2c6e-4fc3-af3d-13f33c794eb5"
+    },
+                                 {
+        nome: "Capacho",
+        imagem: "img/88.png",
+        link: "https://shopee.com.br/Tapete-Porta-Entrada-Casa-Capacho-Vinil-40cm-x-60cm-Margarida-i.1125405787.58253950973?extraParams=%7B%22display_model_id%22%3A159553051600%2C%22model_selection_logic%22%3A3%7D&sp_atk=e8d7e16e-e9c3-4ec2-9f1e-06dadabeb66b&xptdk=e8d7e16e-e9c3-4ec2-9f1e-06dadabeb66b"
+    },
+                                     {
+        nome: "Capacho",
+        imagem: "img/89.png",
+        link: "https://shopee.com.br/Tapete-Porta-de-Entrada-Limpou-o-Pezinho-Capacho-Antiderrapante-Lav%C3%A1vel-Interno-Externo-i.1556901328.51705032503?extraParams=%7B%22display_model_id%22%3A355463800728%2C%22model_selection_logic%22%3A3%7D&sp_atk=f5a7847b-4b5c-42ce-ba10-0efebb445150&xptdk=f5a7847b-4b5c-42ce-ba10-0efebb445150"
+    },
+                                         {
+        nome: "Capacho kit 2",
+        imagem: "img/90.png",
+        link: "https://shopee.com.br/Kit-02-Tapetes-Capachos-Porta-Entrada-50x70cm-Trama-Premium-100-Algod%C3%A3o-i.1752595466.58258531664?extraParams=%7B%22display_model_id%22%3A239441030289%2C%22model_selection_logic%22%3A3%7D&sp_atk=06a6bfe5-2070-4291-b0d9-3804bf5fe2fd&xptdk=06a6bfe5-2070-4291-b0d9-3804bf5fe2fd"
+    },
+                                             {
+        nome: "Enchimento Almofada kit",
+        imagem: "img/91.png",
+        link: "https://shopee.com.br/Kit-4-Almofadas-45cm-x-45cm-de-Espuma-Extra-Macio-Envio-Imediato-i.1511560387.23194946732?extraParams=%7B%22display_model_id%22%3A179415806485%2C%22model_selection_logic%22%3A3%7D&sp_atk=8b791a65-933c-4dc7-bdd3-78aa298b7acd&xptdk=8b791a65-933c-4dc7-bdd3-78aa298b7acd"
+    },
+                                                {
+        nome: "Almofada kit",
+        imagem: "img/92.png",
+        link: "https://shopee.com.br/Kit-04-Almofadas-Cheias-em-Suede-Drapeada-45x45cm-Decorativas-Sala-Quarto-Sof%C3%A1-i.291258068.21897750753?extraParams=%7B%22display_model_id%22%3A109720089196%2C%22model_selection_logic%22%3A3%7D&sp_atk=0432cadc-23cf-4a37-b44f-4da187b87e42&xptdk=0432cadc-23cf-4a37-b44f-4da187b87e42"
+    },
+                                                    {
+        nome: "Manta Microfibra",
+        imagem: "img/93.png",
+        link: "https://shopee.com.br/Manta-De-Microfibra-Queen-Casal-Toque-Extra-Macio-Antial%C3%A9rgico-Quentinho-Flanel-Habitat-i.1526576446.19999705731?extraParams=%7B%22display_model_id%22%3A179409454214%2C%22model_selection_logic%22%3A3%7D&sp_atk=1206106d-cea8-4de6-bb7e-f599fa939a20&xptdk=1206106d-cea8-4de6-bb7e-f599fa939a20"
+    },
 ];
 
 const container = document.getElementById('lista-presentes');
@@ -129,13 +227,20 @@ function renderizarPresentes() {
         const card = document.createElement('div');
         card.className = 'card-presente';
 
+        // clique no card inteiro
+        card.addEventListener('click', () => {
+            window.open(item.link, '_blank');
+        });
+
         card.innerHTML = `
             <div class="img-container">
                 <img src="${item.imagem}" alt="${item.nome}">
             </div>
             <div class="card-info">
                 <h3>${item.nome}</h3>
-                <a href="${item.link}" target="_blank" class="btn-presentear">Presentear</a>
+                <a href="${item.link}" target="_blank" class="btn-presentear">
+                    Presentear
+                </a>
             </div>
         `;
 
@@ -181,13 +286,5 @@ volumeSlider.addEventListener('input', (e) => {
     }
 });
 
-function copiarPix() {
-    const chave = document.getElementById('pix-chave').innerText;
-    navigator.clipboard.writeText(chave).then(() => {
-        const msg = document.getElementById('msg-copiado');
-        msg.style.display = 'block';
-        setTimeout(() => { msg.style.display = 'none'; }, 2000);
-    });
-}
 // Inicia a renderização ao carregar a página
 document.addEventListener('DOMContentLoaded', renderizarPresentes);
