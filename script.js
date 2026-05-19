@@ -1,189 +1,80 @@
 // Array de objetos contendo os dados de cada presente
 const presentes = [
     {
-        nome: "Travessa e Assadeira Refratárias com Alça 3un Porcelana Branca",
-        imagem: "img/2.png",
-        link: "hhttps://s.shopee.com.br/5L8Ub6PCEF"
+        nome: "Fatiador Cortador Ralador",
+        imagem: "img/50.png",
+        link: "https://shopee.com.br/Profissional-Multiuso-Cozinha-Slicer-A%C3%A7o-Inox-16-em-1-Fatiador-Cortador-Ralador-De-Legumes-Verduras-Frutas-Alimentos-i.1293262405.22699028918?extraParams=%7B%22display_model_id%22%3A179409884085%2C%22model_selection_logic%22%3A3%7D&rModelId=179409884085&sp_atk=0baf95a0-1d6c-4baa-a36a-57ba01039f47&vItemId=58252453240&vModelId=228797208491&vShopId=1665239494&xptdk=0baf95a0-1d6c-4baa-a36a-57ba01039f47"
     },
-      {
-        nome: "Faqueiro 20, 25, 30, 35, 48 ou 54 peças de aço inox prateado com Gift Box Viena Wolff",
-        imagem: "img/3.png",
-        link: "https://s.shopee.com.br/7pppZpl1gu"
+ {
+        nome: "Porta Ovos",
+        imagem: "img/51.png",
+        link: "https://shopee.com.br/Porta-Ovos-4-Andares-Rolante-em-Pl%C3%A1stico-para-Geladeira-Organizador-24-a-30-Ovos-i.462426918.23794330101?extraParams=%7B%22display_model_id%22%3A199178474086%2C%22model_selection_logic%22%3A3%7D&rModelId=199178474086&sp_atk=24e1fa7d-7311-4335-9652-1df6621a0a86&vItemId=22299282699&vModelId=229434982040&vShopId=1665239494&xptdk=24e1fa7d-7311-4335-9652-1df6621a0a86"
     },
-      {
-        nome: "Jogo De Facas Inox Tramontina 4 7 10 Peças 5 Peças Com Cepo de Madeira Plenus Preto",
-        imagem: "img/4.png",
-        link: "https://s.shopee.com.br/16yFSoBuB"
-    },
-      {
-        nome: "Conjunto Bowls de Inox com Tampa Electrolux",
-        imagem: "img/5.png",
-        link: "https://s.shopee.com.br/4qCE0MIBhl"
-    },
-       {
-        nome: "Chaleira Elétrica Electrolux 1,8L Efficient com Desligamento Automático (EEK10)",
-        imagem: "img/6.png",
-        link: "https://s.shopee.com.br/gMf2iTFL7"
-    },         
-    {
-        nome: "5 Pano Prato Cozinha Xadrez Branco c/ Dourado Grande Algodão Macio Laune Haus",
-        imagem: "img/8.png",
-        link: "https://s.shopee.com.br/2g7jQPypHr"
-    },
-        {
-        nome: "Jogo De Taças De Vidro Diamond Cristal 325ml 6 Peças",
-        imagem: "img/9.png",
-        link: "https://s.shopee.com.br/8ASfyXQHjG"
-    },
-            {
-        nome: "Jarra Diamond De Vidro Com Fio De Ouro Dourado 1,14L Lyor",
-        imagem: "img/10.png",
-        link: "https://s.shopee.com.br/8fOwZTSNRA"
-    },
-                {
-        nome: "Boleira Porta Bolo Bambu Com Tampa Cúpula Em Acrílico 28cm",
-        imagem: "img/11.png",
-        link: "hhttps://s.shopee.com.br/6L11nCJKGF"
-    },
-                    {
-        nome: "Porta Queijo Queijeira Madeira Bambu Com Tampa 19cm X 9cm Em Acrílico Mesa Posta",
-        imagem: "img/12.png",
-        link: "https://s.shopee.com.br/1LcLq1xxHm"
-    },                    {
-        nome: "Garrafa Térmica Termometro Digital 1L Café Chá Nórdica Com Cabo Madeira",
-        imagem: "img/13.png",
-        link: "https://s.shopee.com.br/3LNQDixV1a"
-    },                   {
-        nome: "Jogo de Taças de Cerveja Floripa com 6 peças 300ml",
-        imagem: "img/14.png",
-        link: "https://s.shopee.com.br/6L11nFrF7u"
-    },
-                    {
-        nome: "Jogo 6 Taças de Vidro Premium Resistente para Vinho e Água 465ml - Design Moderno Drink Coquetel",
-        imagem: "img/15.png",
-        link: "hhttps://s.shopee.com.br/gMf2rtrJc"
+     {
+        nome: "Kit 10 potes marmitas",
+        imagem: "img/52.png",
+        link: "https://shopee.com.br/Kit-10-Potes-Marmitas-1.000ml-Vasilhas-transparentes-BPA-FREE-reutiliz%C3%A1vel-cozinha-microondas-i.322050038.23498679662?extraParams=%7B%22display_model_id%22%3A229424154536%2C%22model_selection_logic%22%3A3%7D&rModelId=229424154536&sp_atk=00212599-8229-48e0-a1f8-2ae5f2d4b327&vItemId=58206134582&vModelId=139655437469&vShopId=1665239494&xptdk=00212599-8229-48e0-a1f8-2ae5f2d4b327"
     },
          {
-        nome: "kit 02 Travesseiros Altenburg Antistress Tech 0,50x0,70m",
-        imagem: "img/16.png",
-        link: "https://s.shopee.com.br/20s2dLAvZO"
+        nome: "jarra de Vidro",
+        imagem: "img/53.png",
+        link: "https://shopee.com.br/Jarra-De-Vidro-Su%C3%AD%C3%A7a-1-Litro-Jarra-Para-Suco-%C3%81gua-Vidro-Resistente-i.1014347671.23693909087?extraParams=%7B%22display_model_id%22%3A238784191405%2C%22model_selection_logic%22%3A3%7D&rModelId=238784191405&sp_atk=d556364f-36a8-4a08-a950-5130dfec1711&vItemId=23599298393&vModelId=189616517951&vShopId=1665239494&xptdk=d556364f-36a8-4a08-a950-5130dfec1711"
     },
              {
-        nome: "Bandeja de Bambu e Madeira com Alças Douradas -Um Design Sofisticado Adequado para Todas as Ocasiões",
-        imagem: "img/17.png",
-        link: "https://s.shopee.com.br/1qYcR3kQOV"
+        nome: "Suporte Organizador",
+        imagem: "img/54.png",
+        link: "https://shopee.com.br/Suporte-para-Pratos-Organizador-de-Arm%C3%A1rio-2-andares-Aramado-Cozinha-i.915198403.58201022828?extraParams=%7B%22display_model_id%22%3A219615013751%2C%22model_selection_logic%22%3A3%7D&rModelId=219615013751&sp_atk=d76a7d1a-b847-4038-85f1-b99707316208&vItemId=58203319524&vModelId=169724170633&vShopId=1665239494&xptdk=d76a7d1a-b847-4038-85f1-b99707316208"
     },
                  {
-        nome: "Jogo de Utensílios Tramontina Softta em Silicone 7 Peças",
-        imagem: "img/18.png",
-        link: "https://s.shopee.com.br/8ASfyiTTKX"
+        nome: "Tijela Multiuso",
+        imagem: "img/55.png",
+        link: "https://shopee.com.br/Tigela-Multiuso-Profissional-Fundo-Cozinha-Completa-Gourmet-i.373277040.8468874387?extraParams=%7B%22display_model_id%22%3A82881298876%2C%22model_selection_logic%22%3A3%7D&rModelId=82881298876&sp_atk=751a951f-164a-44f5-aa65-550faf47c704&vItemId=58253483555&vModelId=129654638626&vShopId=1665239494&xptdk=751a951f-164a-44f5-aa65-550faf47c704"
     },
                      {
-        nome: "Cj 6 Xícaras Café em Porcelana Com Pires Paddy Branco 90Ml - Wolff Original",
-        imagem: "img/19.png",
-        link: "https://s.shopee.com.br/1qYcR5vZvR"
+        nome: "Faqueiro",
+        imagem: "img/56.png",
+        link: "https://shopee.com.br/Kit-Completo-Facas-4-Pe%C3%A7as-Uso-Di%C3%A1rio-Cozinha-i.311200678.58258492006?extraParams=%7B%22display_model_id%22%3A209188029359%2C%22model_selection_logic%22%3A3%7D&sp_atk=28c4a1e2-edb4-4495-b44f-805e904d093a&xptdk=28c4a1e2-edb4-4495-b44f-805e904d093a"
     },
                          {
-        nome: "Jogo 12 Potes Hermetico Vidro Mantimentos Tampa Bambu",
-        imagem: "img/20.png",
-        link: "https://s.shopee.com.br/8V5WNMOAG9"
+        nome: "Jogo de 6 taças",
+        imagem: "img/57.png",
+        link: "https://shopee.com.br/Jogo-6-Ta%C3%A7a-Diamante-Copo-Vidro-Transparente-Bico-De-Jaca-330ml-i.1243787136.23298778570?extraParams=%7B%22display_model_id%22%3A209177706251%2C%22model_selection_logic%22%3A3%7D&rModelId=209177706251&sp_atk=75b65489-619f-4579-af67-e25011dd9296&vItemId=58200835612&vModelId=189614815352&vShopId=1665239494&xptdk=75b65489-619f-4579-af67-e25011dd9296"
     },
                              {
-        nome: "Kit de 6 até 12 Potes de Vidro 640ml - 370 ml Hermético Marmita Fit com Tampa 4 Travas Premium",
-        imagem: "img/21.png",
-        link: "https://s.shopee.com.br/2qR9cxnBNm"
+        nome: "Kit tapete para banheiro",
+        imagem: "img/58.png",
+        link: "https://shopee.com.br/Tapete-para-Banheiro-kit-com-3-pe%C3%A7as-Antiderrapante-Super-Soft-atacado-Pe%C3%A7as-Algod%C3%A3o-e-Pel%C3%BAcia-i.608748879.51659728534?extraParams=%7B%22display_model_id%22%3A282581681315%2C%22model_selection_logic%22%3A3%7D&sp_atk=d8f911b1-efe0-4609-89f6-70888e2a768d&xptdk=d8f911b1-efe0-4609-89f6-70888e2a768d"
     },
                                  {
-        nome: "Suporte de Panela Dobrável em Madeira Formato de Árvore | Suporte para Panelas e Pratos Quentes | Trivet de Bambu",
-        imagem: "img/22.png",
-        link: "https://s.shopee.com.br/5flL0Bkn9q"
+        nome: "Tapete para banheiro",
+        imagem: "img/59.png",
+        link: "https://shopee.com.br/1-2-Tapete-de-Banheiro-Absorvente-Antiderrapante-Secagem-R%C3%A1pida-i.343246764.58258313230?extraParams=%7B%22display_model_id%22%3A199620347901%2C%22model_selection_logic%22%3A3%7D&sp_atk=669ff2ba-c416-43fa-a09a-f4602f5bc5e8&xptdk=669ff2ba-c416-43fa-a09a-f4602f5bc5e8"
     },
                                      {
-        nome: "Porta Alho Feito de Cerâmica Premium Nome em Alto Relevo Tendencia Varias Cores",
-        imagem: "img/23.png",
-        link: "https://s.shopee.com.br/3g0GcY9ocb"
+        nome: "Pano Microfibra kit 10un",
+        imagem: "img/60.png",
+        link: "https://shopee.com.br/Pano-de-Microfibra-Flanela-Kit-10-Un-30x30cm-Multiuso-Limpeza-Dom%C3%A9stica-Vidro-Pia-Cor-Aleat%C3%B3ria-CA!!-i.1468361340.58257168077?extraParams=%7B%22display_model_id%22%3A189187174982%2C%22model_selection_logic%22%3A3%7D&sp_atk=2cc57c3d-9272-424f-8740-3a51355ebbf3&xptdk=2cc57c3d-9272-424f-8740-3a51355ebbf3"
     },
                                          {
-        nome: "Grill Sanduicheira Cadence SAN400 Elétrica Chapa Misteira Tostex Tostequeira Hambúrguer Click 127v",
-        imagem: "img/24.png",
-        link: "https://s.shopee.com.br/8V5WNRmXjA"
+        nome: "Petisqueira",
+        imagem: "img/61.png",
+        link: "https://shopee.com.br/Kit-Petisqueira-para-Petiscos-Frios-Queijo-Churrasco-com-Molheira-Ramekin-e-Garfinhos-i.339641067.58205634424?extraParams=%7B%22display_model_id%22%3A199186132830%2C%22model_selection_logic%22%3A3%7D&sp_atk=29cbeeac-ca99-4f51-958c-b8dece57cf27&xptdk=29cbeeac-ca99-4f51-958c-b8dece57cf27"
     },
-    {
-        nome: "Kit Petisqueira Em Bambu + Facas E Garfos Tábua Ecoeden",
-        imagem: "img/27.png",
-        link: "https://s.shopee.com.br/5flL0JquT1"
+                                             {
+        nome: "Formas Kit 3 un",
+        imagem: "img/62.png",
+        link: "https://shopee.com.br/Kit-3-Formas-com-Fundo-Remov%C3%ADvel-Antiaderente-com-Fundo-Remov%C3%ADvel-para-torta-Bolo-i.352674932.23093594578?extraParams=%7B%22display_model_id%22%3A229435813467%2C%22model_selection_logic%22%3A3%7D&rModelId=229435813467&sp_atk=55d2e533-164b-4582-a28f-601d47e011ae&vItemId=22599385489&vModelId=219618953748&vShopId=1665239494&xptdk=55d2e533-164b-4582-a28f-601d47e011ae"
     },
-                                                        {
-        nome: "Kit 2 Dispenser Hermético 3L com Dosador para Cozinha Ou Lavanderia",
-        imagem: "img/28.png",
-        link: "https://s.shopee.com.br/8fOwZqVjfc"
+                                                 {
+        nome: "Tela mosquiteiro alimentos",
+        imagem: "img/63.png",
+        link: "https://shopee.com.br/Protetores-Tela-Mosquiteiro-Alimentos-Fruta-E-Bolo-i.524015837.10646064691?extraParams=%7B%22display_model_id%22%3A130205474710%2C%22model_selection_logic%22%3A3%7D&rModelId=130205474710&sp_atk=b8cf8002-9de0-43e6-b38a-722fbf59843e&vItemId=23599290605&vModelId=209617229637&vShopId=1665239494&xptdk=b8cf8002-9de0-43e6-b38a-722fbf59843e"
     },
-                                                            {
-        nome: "Manteigueira de Porcelana Branca com Tampa de Bambu e Espátula Elegante KL-PJ03629-S",
-        imagem: "img/29.png",
-        link: "https://s.shopee.com.br/4AwXDaqFAy"
+                                                     {
+        nome: "Varal de Chão",
+        imagem: "img/64.png",
+        link: "https://shopee.com.br/Varal-De-Ch%C3%A3o-3-Andares-Para-Roupas-e-Calcinhas-4-Rodas-Dobr%C3%A1vel-Refor%C3%A7ado-e-Port%C3%A1til-i.318583394.15782946794?extraParams=%7B%22display_model_id%22%3A159530862167%2C%22model_selection_logic%22%3A3%7D&sp_atk=1adf5189-da1c-48e1-aac4-cd625709d6a0&xptdk=1adf5189-da1c-48e1-aac4-cd625709d6a0"
     },
-    {
-        nome: "Kit 4 Super Panos De Chão Grandes Em Microfibra Panão 80x50",
-        imagem: "img/39.png",
-        link: "https://s.shopee.com.br/5flL0NgYyq"
-    },
-    {
-        nome: "Porta Ovos Acrílico Organizador Geladeira Gaveteiro Dupla Capacidade Cor Branca Envio Imediato",
-        imagem: "img/30.png",
-        link: "https://shopee.com.br/product/1333478822/22393835046?d_id=acce1&uls_trackid=55ilj36602k0&utm_content=27xTz6wknhgP85hLspNNENFxagLX"
-    },
-    {
-        nome: "Belifou Kit 6 Pote hermético 200ML Pote De Vidro com Tampa bambu pote de mantimentos para cozinha",
-        imagem: "img/31.png",
-        link: "https://shopee.com.br/product/1224363395/22098063316?d_id=acce1&uls_trackid=55ilj8so01kl&utm_content=27xTz6wknhivu4vEQF5hHM8LcrK1"
-    }, 
-    {
-        nome: "Jogo 6 Taças Vinho Tinto Em Cristal Bohemia 650 Ml Titanium Cor Transparente",
-        imagem: "img/34.png",
-        link: "https://shopee.com.br/product/1224363395/22098063316?d_id=acce1&uls_trackid=55ilj8so01kl&utm_content=27xTz6wknhivu4vEQF5hHM8LcrK1"
-    },
-                            {
-        nome: "Jogo 12 / 06 Taça Vidro Cristalino Buffet 186ML Champanhe Espumante Vinho Branco Bar Restaurante",
-        imagem: "img/35.png",
-        link: "https://shopee.com.br/product/1224363395/22098063316?d_id=acce1&uls_trackid=55ilj8so01kl&utm_content=27xTz6wknhivu4vEQF5hHM8LcrK1"
-    },
-                                {
-        nome: "Jogo De 12 Copos 320ml Vidro Bali Quadrado Luxo Transparente",
-        imagem: "img/36.png",
-        link: "https://shopee.com.br/product/1224363395/22098063316?d_id=acce1&uls_trackid=55ilj8so01kl&utm_content=27xTz6wknhivu4vEQF5hHM8LcrK1"
-    },
-    {
-        nome: "Saladeira Bowl Ryo Maresia 1,6 Litros 26 cm Oxford Porcelana",
-        imagem: "img/40.png",
-        link: "https://shopee.com.br/product/389126594/22897548128?d_id=acce1&uls_trackid=55ilqe2n00l4&utm_content=27xTz6wknkWgat1P9w9nkmJHbCmD"
-    },
-                                                {
-        nome: "Conjunto de Utensílios de Bambu de 06 Peças",
-        imagem: "img/41.png",
-        link: "https://shopee.com.br/product/1526836548/23094041212?d_id=acce1&uls_trackid=55ilqiau01kl&utm_content=27xTz6wknkkm1kxw8JRZj1WczBdy"
-    },
-                                                    {
-        nome: "Porta Pães Com Tampa Retrátil de Bambu Ecokitchen Mimo Style",
-        imagem: "img/42.png",
-        link: "https://shopee.com.br/product/801047504/19117762707?d_id=acce1&uls_trackid=55ilqlfm020t&utm_content=27xTz6wknkpFuvtCxyLuUw7khWAs"
-    },
-                                                        {
-        nome: "Kit Jogo Americano Sousplat Bordado Suplat de Mesa Posta Redondo/Retangular e Guardanapos",
-        imagem: "img/43.png",
-        link: "https://shopee.com.br/product/1314421697/22194388384?d_id=acce1&uls_trackid=55ilqpnf00k6&utm_content=27xTz6wknkzkcSe2Uz6vk9nDLu6w"
-    },
-                                                            {
-        nome: "Porta Frios Bambu Duplo Com Divisorias Tampa de Acrilico",
-        imagem: "img/44.png",
-        link: "https://shopee.com.br/product/1504918650/21398149079?d_id=acce1&uls_trackid=55ilqube01oi&utm_content=27xTz6wknmQScvxPhkL3vuTQ7A3h"
-    },
-{
-        nome: "Varal",
-        imagem: "img/48.png",
-        link: "https://shopee.com.br/product/1504788346/18398346899?exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QABpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMRoz0ZUjQw0QlRa--FjB0AKnHQPF7xv4DyGj9-GQwqn4zSdB6gztmw7ebmtsZs9FPJxlVqctc57WUE3IRqmNpcGhlcnRleHTEmQAAAAxGP8AjsJZGzuSpiETMZPLkBQaZXNfqclzhlh4mGlG41Jj3BX6hEK05xy2_03XZEeRV1bFJxO58QuGx0KaNHcnrdW3kbChuQE3eht1AXus9l2ps_WqopTf352O1MEvWuSEFe9vm4QvHRHmtpw4YNOC915g-7wahZ4SkbNFBfIw7kHu7XwOrUVtn0YyznR_i63DD4f3EsA&mmp_pid=an_18389281073&share_channel_code=1&uls_trackid=55kl4n4a00l0&utm_campaign=id_7Yv9iiwaGl&utm_content=----&utm_medium=affiliates&utm_source=an_18389281073&utm_term=evzm1o833d2w"
-    },
-
 ];
 
 const container = document.getElementById('lista-presentes');

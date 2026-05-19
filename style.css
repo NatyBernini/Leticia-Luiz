@@ -199,7 +199,9 @@ footer {
     }
     
     .igreja-ilustracao {
-        max-width: 180px;
+        width: 180px;       /* Força a largura de 180px no celular */
+        height: 180px;      /* Força a altura de 180px para manter o quadrado */
+        object-fit: cover;  /* Mantém o corte perfeito sem distorcer */
     }
 }
 
